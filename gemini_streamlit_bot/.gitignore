@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Environment variables
+.env
+
+# Streamlit artifacts
+.streamlit/
+
+# IDE and OS clutter
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
